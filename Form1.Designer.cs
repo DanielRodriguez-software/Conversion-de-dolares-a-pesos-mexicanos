@@ -30,13 +30,13 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(conversi));
             this.gbPantalla = new System.Windows.Forms.GroupBox();
+            this.lblError = new System.Windows.Forms.Label();
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnConversion = new System.Windows.Forms.Button();
             this.txtPesos = new System.Windows.Forms.TextBox();
             this.txtDolares = new System.Windows.Forms.TextBox();
             this.lblPesos = new System.Windows.Forms.Label();
             this.lblDolares = new System.Windows.Forms.Label();
-            this.lblError = new System.Windows.Forms.Label();
             this.gbPantalla.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,25 +60,41 @@
             this.gbPantalla.TabStop = false;
             this.gbPantalla.Text = "Pantalla Principal";
             // 
+            // lblError
+            // 
+            this.lblError.AutoSize = true;
+            this.lblError.ForeColor = System.Drawing.Color.Red;
+            this.lblError.Location = new System.Drawing.Point(306, 166);
+            this.lblError.Name = "lblError";
+            this.lblError.Size = new System.Drawing.Size(39, 16);
+            this.lblError.TabIndex = 6;
+            this.lblError.Text = "Error";
+            // 
             // btnLimpiar
             // 
             this.btnLimpiar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.btnLimpiar.Location = new System.Drawing.Point(256, 112);
+            this.btnLimpiar.Image = global::Conversion_de_dolar_a_pesos_mexicanos.Properties.Resources.icons8_broom_48;
+            this.btnLimpiar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnLimpiar.Location = new System.Drawing.Point(296, 97);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
+            this.btnLimpiar.Size = new System.Drawing.Size(103, 53);
             this.btnLimpiar.TabIndex = 5;
             this.btnLimpiar.Text = "Limpiar";
+            this.btnLimpiar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnLimpiar.UseVisualStyleBackColor = false;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnConversion
             // 
             this.btnConversion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.btnConversion.Location = new System.Drawing.Point(243, 62);
+            this.btnConversion.Image = global::Conversion_de_dolar_a_pesos_mexicanos.Properties.Resources.icons8_add_48;
+            this.btnConversion.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnConversion.Location = new System.Drawing.Point(281, 29);
             this.btnConversion.Name = "btnConversion";
-            this.btnConversion.Size = new System.Drawing.Size(101, 23);
+            this.btnConversion.Size = new System.Drawing.Size(128, 54);
             this.btnConversion.TabIndex = 4;
             this.btnConversion.Text = "Conversion";
+            this.btnConversion.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnConversion.UseVisualStyleBackColor = false;
             this.btnConversion.Click += new System.EventHandler(this.btnConversion_Click);
             // 
@@ -114,16 +130,6 @@
             this.lblDolares.Size = new System.Drawing.Size(62, 16);
             this.lblDolares.TabIndex = 0;
             this.lblDolares.Text = "Dolares:";
-            // 
-            // lblError
-            // 
-            this.lblError.AutoSize = true;
-            this.lblError.ForeColor = System.Drawing.Color.Red;
-            this.lblError.Location = new System.Drawing.Point(278, 159);
-            this.lblError.Name = "lblError";
-            this.lblError.Size = new System.Drawing.Size(39, 16);
-            this.lblError.TabIndex = 6;
-            this.lblError.Text = "Error";
             // 
             // conversi
             // 
