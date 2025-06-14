@@ -1,0 +1,20 @@
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\bin\Debug\Conversion de dolar a pesos mexicanos.exe.config
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\bin\Debug\Conversion de dolar a pesos mexicanos.exe
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\bin\Debug\Conversion de dolar a pesos mexicanos.pdb
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion_de_dolar_a_pesos_mexicanos.conversi.resources
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion_de_dolar_a_pesos_mexicanos.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.exe
+C:\Users\Estudiante\Desktop\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\bin\Debug\Conversion de dolar a pesos mexicanos.exe.config
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\bin\Debug\Conversion de dolar a pesos mexicanos.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\bin\Debug\Conversion de dolar a pesos mexicanos.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion_de_dolar_a_pesos_mexicanos.conversi.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion_de_dolar_a_pesos_mexicanos.Properties.Resources.resources
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.exe
+C:\Users\MINEDUCYT\OneDrive\Escritorio\Conversion de dolar a pesos mexicanos\obj\Debug\Conversion de dolar a pesos mexicanos.pdb
